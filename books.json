@@ -1,0 +1,58 @@
+[
+    {
+        "title": "All the King's Men",
+        "author": "Robert Penn Warren",
+        "available": true,
+        "pages": "550",
+        "isbn": "1258965"
+    },
+    {
+        "title": "Antic Hay",
+        "author": "Aldous Huxley",
+        "available": false,
+        "pages": "680",
+        "isbn": "1258970"
+    },
+    {
+        "title": "Blood's a Rover",
+        "author": "James Ellroy",
+        "available": "true",
+        "pages": "390",
+        "isbn": "1254869"
+    },
+    {
+        "title": "Parapar",
+        "author": "Humaun Ahmed",
+        "available": "true",
+        "pages": "320",
+        "isbn": "125849"
+    },
+    {
+        "title": "Parapar",
+        "author": "Humaun Ahmed",
+        "available": "true",
+        "pages": "320",
+        "isbn": "125849"
+    },
+    {
+        "title": "Parapar",
+        "author": "Humaun Ahmed",
+        "available": "true",
+        "pages": "320",
+        "isbn": "125849"
+    },
+    {
+        "title": "Parapar",
+        "author": "Humaun Ahmed",
+        "available": "true",
+        "pages": "320",
+        "isbn": "125849"
+    },
+    {
+        "title": "Parapar",
+        "author": "Humaun Ahmed",
+        "available": "true",
+        "pages": "320",
+        "isbn": "125849"
+    }
+]
